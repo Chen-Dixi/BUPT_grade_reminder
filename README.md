@@ -1,5 +1,6 @@
 # BUPT_grade_reminder
 北京邮电大学研究生期末成绩提醒，通过邮件发送成绩推送通知
+
 ![image](https://github.com/Chen-Dixi/BUPT_grade_reminder/blob/master/IMG_3994766EC11E-1.jpeg)
 
 #### 程序是从上海科技大学的朋友那里改的，修改了一下抓取方式抓北邮的研究生成绩
